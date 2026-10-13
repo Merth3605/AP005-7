@@ -1,0 +1,11 @@
+Neuron1: https: //www.kaggle.com/code/merrth/neuron1
+
+Neuron1.1: https: //www.kaggle.com/code/merrth/neuron1-1
+
+Neuron1.2: https://www.kaggle.com/code/merrth/neuron1-2
+
+Prac1: https://www.kaggle.com/code/merrth/prac-1
+
+Prac2: https://www.kaggle.com/code/merrth/prac-2
+
+Prac3: https://www.kaggle.com/code/merrth/prac-3
